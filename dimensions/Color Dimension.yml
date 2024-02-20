@@ -6,7 +6,7 @@ is_degenerate: true
 
 hierarchies:
 
-  - unique_name: Color
+  - unique_name: Color Hieararchy
     label: Color
     folder: Product Attributes
 

@@ -6,7 +6,7 @@ is_degenerate: true
 
 hierarchies:
 
-  - unique_name: Size
+  - unique_name: Size Hierarchy
     label: Size
     folder: Product Attributes
 
