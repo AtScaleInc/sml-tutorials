@@ -1,4 +1,0 @@
-[submodule "sml-shared"]
-	path = sml-shared
-	url = https://github.com/AtScaleInc/sml-shared.git
-	branch = main
