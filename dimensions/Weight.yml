@@ -1,4 +1,4 @@
-unique_name: Weight
+unique_name: Weight Dimension
 object_type: dimension
 label: Weight
 is_degenerate: true
@@ -12,11 +12,11 @@ hierarchies:
 
     levels:
 
-      - unique_name: Weight Level
+      - unique_name: Weight
 
 level_attributes:
 
-  - unique_name: Weight Attribute
+  - unique_name: Weight
     label: Weight
     dataset: factinternetsales
     name_column: weight

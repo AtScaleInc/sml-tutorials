@@ -5,7 +5,7 @@ dimensions:
   - Color Dimension
   - Size Dimension
   - Style Dimension
-  - Weight
+  - Weight Dimension
 drillthroughs:
   - unique_name: Customer Details
     attributes:
